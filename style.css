@@ -1,0 +1,33 @@
+.card {
+    background-color: #E9E6E6;
+    padding-top:10px ;
+    padding-bottom: 10px;
+
+}
+
+.title {
+    margin-top: 10px;
+   
+}
+
+.title h1 {
+    background-color:#78F0B7;
+    color: white;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: 2px solid darkgreen;
+    text-align: center;.
+   
+
+}
+
+.text p {
+    background-color: lightblue;
+    color: white;
+    padding: 10px 5px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+
+}
